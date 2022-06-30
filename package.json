@@ -4,7 +4,8 @@
   "description": "A pomodoro timer application built with JavaScript",
   "main": "main.js",
   "scripts": {
-    "start": "npm start"
+    "start": "npx browser-sync start -sw --port $PORT",
+    
   },
   "repository": {
     "type": "git",
