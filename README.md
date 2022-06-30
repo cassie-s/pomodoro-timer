@@ -6,7 +6,7 @@ here: https://freshman.tech/pomodoro-timer
 ## Live demo
 
 The completed version of this project is live at
-https://freshman-pomodoro.surge.sh/
+https://sulky-ship.surge.sh
 
 ## Prerequisites
 
