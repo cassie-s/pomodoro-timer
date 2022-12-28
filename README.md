@@ -1,29 +1,8 @@
-# Pomodoro Timer Starter files
+# Pomodoro Timer
 
-Here lies the starter files for the Pomodoro timer tutorial which can be found
-here: https://freshman.tech/pomodoro-timer
+Stay productive during the day by taking scheduled breaks with this timer. Built with Node.js and Vanilla Javascript. 
 
 ## Live demo
 
 The completed version of this project is live at
 https://sulky-ship.surge.sh
-
-## Prerequisites
-
-You must have [Node.js](https://nodejs.org/en/download/) and
-[npm](https://www.npmjs.com/get-npm) installed on your machine. This project was
-built against the following versions:
-
-Node v13.13.0
-npm v6.14.5
-
-## Get started
-
-Clone this repository to your local machine with:
-
-```bash
-$ git clone https://github.com/Freshman-tech/pomodoro-starter-files.git
-```
-
-`cd` into the downloaded directory and follow along with the
-[tutorial](https://freshman.tech/pomodoro-timer/).
